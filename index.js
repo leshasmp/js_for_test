@@ -1,2 +1,2 @@
 // eslint-disable-next-line no-unused-vars
-const MY_FAV = 7;
+let MY_FAV = 7;
