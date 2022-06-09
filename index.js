@@ -1,1 +1,1 @@
-let test = 123;
+let const = 123;
