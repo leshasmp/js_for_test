@@ -3,6 +3,3 @@ const MY_FAV = 7;
 
 
 
-
-
-
